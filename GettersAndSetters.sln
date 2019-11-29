@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettersAndSetters", "GettersAndSetters\GettersAndSetters.csproj", "{A0903C30-642E-4A42-B85D-0F06BB41F446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieGettersAndSetters", "MovieGettersAndSetters\MovieGettersAndSetters.csproj", "{10F4432E-8B9E-426D-87E1-FD55EF0BEE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrjoska", "Matrjoska\Matrjoska.csproj", "{7351E51E-9854-475F-9C60-B619C6B81C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0903C30-642E-4A42-B85D-0F06BB41F446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0903C30-642E-4A42-B85D-0F06BB41F446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0903C30-642E-4A42-B85D-0F06BB41F446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0903C30-642E-4A42-B85D-0F06BB41F446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F4432E-8B9E-426D-87E1-FD55EF0BEE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F4432E-8B9E-426D-87E1-FD55EF0BEE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F4432E-8B9E-426D-87E1-FD55EF0BEE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F4432E-8B9E-426D-87E1-FD55EF0BEE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7351E51E-9854-475F-9C60-B619C6B81C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7351E51E-9854-475F-9C60-B619C6B81C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7351E51E-9854-475F-9C60-B619C6B81C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7351E51E-9854-475F-9C60-B619C6B81C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

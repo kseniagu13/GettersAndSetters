@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/bin/Debug/netcoreapp3.0/Matrjoska
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/bin/Debug/netcoreapp3.0/Matrjoska.deps.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/bin/Debug/netcoreapp3.0/Matrjoska.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/bin/Debug/netcoreapp3.0/Matrjoska.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/bin/Debug/netcoreapp3.0/Matrjoska.dll
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/bin/Debug/netcoreapp3.0/Matrjoska.pdb
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/obj/Debug/netcoreapp3.0/Matrjoska.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/obj/Debug/netcoreapp3.0/Matrjoska.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/obj/Debug/netcoreapp3.0/Matrjoska.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/obj/Debug/netcoreapp3.0/Matrjoska.dll
+/Users/kseniagustsenko/Desktop/GettersAndSetters/Matrjoska/obj/Debug/netcoreapp3.0/Matrjoska.pdb

@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/bin/Debug/netcoreapp3.0/GettersAndSetters
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/bin/Debug/netcoreapp3.0/GettersAndSetters.deps.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/bin/Debug/netcoreapp3.0/GettersAndSetters.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/bin/Debug/netcoreapp3.0/GettersAndSetters.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/bin/Debug/netcoreapp3.0/GettersAndSetters.dll
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/bin/Debug/netcoreapp3.0/GettersAndSetters.pdb
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/obj/Debug/netcoreapp3.0/GettersAndSetters.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/obj/Debug/netcoreapp3.0/GettersAndSetters.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/obj/Debug/netcoreapp3.0/GettersAndSetters.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/obj/Debug/netcoreapp3.0/GettersAndSetters.dll
+/Users/kseniagustsenko/Desktop/GettersAndSetters/GettersAndSetters/obj/Debug/netcoreapp3.0/GettersAndSetters.pdb

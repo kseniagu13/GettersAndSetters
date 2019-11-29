@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{10F4432E-8B9E-426D-87E1-FD55EF0BEE21}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieGettersAndSetters/Program.cs">
+    <Files>
+      <File FileName="GettersAndSetters/Program.cs" Line="26" Column="73" />
+      <File FileName="MovieGettersAndSetters/Program.cs" Line="136" Column="1" />
+      <File FileName="Matrjoska/Program.cs" Line="116" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GettersAndSetters" expanded="True">
+            <Node name="GettersAndSetters" expanded="True" />
+            <Node name="Matrjoska" expanded="True" />
+            <Node name="MovieGettersAndSetters" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieGettersAndSetters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Matrjoska PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GettersAndSetters PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

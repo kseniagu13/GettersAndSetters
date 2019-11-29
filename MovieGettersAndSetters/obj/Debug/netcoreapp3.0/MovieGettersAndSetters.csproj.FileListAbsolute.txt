@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/bin/Debug/netcoreapp3.0/MovieGettersAndSetters
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/bin/Debug/netcoreapp3.0/MovieGettersAndSetters.deps.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/bin/Debug/netcoreapp3.0/MovieGettersAndSetters.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/bin/Debug/netcoreapp3.0/MovieGettersAndSetters.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/bin/Debug/netcoreapp3.0/MovieGettersAndSetters.dll
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/bin/Debug/netcoreapp3.0/MovieGettersAndSetters.pdb
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/obj/Debug/netcoreapp3.0/MovieGettersAndSetters.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/obj/Debug/netcoreapp3.0/MovieGettersAndSetters.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/obj/Debug/netcoreapp3.0/MovieGettersAndSetters.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/obj/Debug/netcoreapp3.0/MovieGettersAndSetters.dll
+/Users/kseniagustsenko/Desktop/GettersAndSetters/MovieGettersAndSetters/obj/Debug/netcoreapp3.0/MovieGettersAndSetters.pdb
